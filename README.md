@@ -1,5 +1,6 @@
 # Barbearia Alura
 
+![preview](./.github/preview.png)
 
 >Curso HTML e CSS
 
